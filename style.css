@@ -1,5 +1,5 @@
 
-.roboto-<uniquifier> {
+.roboto {
     font-family: "Roboto", sans-serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
@@ -26,16 +26,45 @@
     font-style: normal;
   }
   
+  .thasadith-regular {
+    font-family: "Thasadith", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .thasadith-bold {
+    font-family: "Thasadith", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .thasadith-regular-italic {
+    font-family: "Thasadith", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .thasadith-bold-italic {
+    font-family: "Thasadith", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
 
   body {
-    
+    font-family: "Thasadith", sans-serif;
+    font-size: 1rem; /* This sets the size to 16px if the root size is 16px */
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
   }
   
   h2 {
-    font-family: "Roboto", sans-serif;
+    font-family: "Thasadith", sans-serif;
+    font-size: 2rem; /* This sets the size to 32px if the root size is 16px */
     font-optical-sizing: auto;
     font-weight: 700;
-    font-style: normal;
+    font-style: bold;
   }
 
   .logo {
