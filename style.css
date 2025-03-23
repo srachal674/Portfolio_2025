@@ -22,3 +22,16 @@
     font-style: normal;
   }
   
+  h2 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  hi {
+    font-family: "".poiret-one-regular"", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
