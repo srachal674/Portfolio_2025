@@ -53,7 +53,7 @@
 
   body {
     font-family: "Thasadith", sans-serif;
-    font-size: 1rem; /* This sets the size to 16px if the root size is 16px */
+    font-size: 1.5rem; /* This sets the size to 16px if the root size is 16px */
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
